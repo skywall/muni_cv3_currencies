@@ -6,7 +6,7 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 public class Api {
-	private static final String URL = "http://api.fixer.io//";
+	private static final String URL = "http://api.fixer.io/";
 
 	public static ServerService serverService;
 
@@ -32,6 +32,6 @@ public class Api {
 	}
 
 	public interface ServerService {
-
+		// TODO add missing request
 	}
 }
