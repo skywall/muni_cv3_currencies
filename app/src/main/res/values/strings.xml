@@ -1,0 +1,8 @@
+<resources>
+	<string name="app_name">Cv3Currencies</string>
+	<string name="enter_currency_code">Enter currency code</string>
+	<string name="from">From:</string>
+	<string name="to">To:</string>
+	<string name="download">Download</string>
+	<string name="result">Result</string>
+</resources>
